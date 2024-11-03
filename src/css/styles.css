@@ -94,8 +94,8 @@ button[type='button']:hover {
   width: 346px;
   height: 72px;
   display: flex;
-  margin-left: 156px;
   gap: 24px;
+  margin: 0 auto;
 }
 
 .field {
